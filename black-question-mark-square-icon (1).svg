@@ -1,0 +1,19 @@
+<?xml version="1.0"?><svg width="584" height="584" xmlns="http://www.w3.org/2000/svg">
+ <title>square usb</title>
+ <defs>
+  <filter id="filter3916" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="17.5" id="feGaussianBlur3918"/>
+  </filter>
+ </defs>
+ <metadata id="metadata3976">image/svg+xml</metadata>
+ <g display="inline">
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g3920">
+    <rect id="rect3894" width="500" height="500" x="43.00012" y="41.999983" ry="34.345188" filter="url(#filter3916)" fill-rule="nonzero" fill="#4f4f4f"/>
+    <rect ry="34.345188" y="29.999983" x="30.00012" height="500" width="500" id="rect3788" fill-rule="nonzero" fill="#000000"/>
+   </g>
+  </g>
+  <text fill="#ffffff" stroke-width="0" x="286.747772" y="182.49617" id="svg_356" font-size="24" font-family="Arial" text-anchor="middle" xml:space="preserve" transform="matrix(21.9199, 0, 0, 16.702, -6004.98, -2612.93)">?</text>
+ </g>
+</svg>
